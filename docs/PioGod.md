@@ -1,7 +1,3 @@
-hwfieqg
-wefeqw
-eqwweqf
+*miejsce urodzenia: Vietna*
+**wiek: 1234**
 ***favorite color - yellow***
-
-
-eeqveqw
